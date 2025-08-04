@@ -9,10 +9,9 @@ namespace sistema_hospital_csharp
     public class Paciente
     {
         public int Idade;
-        public char TpSexo = 'F', 'M';
-
+        public char[] TpSexo = {'M','F','P'};
         public string Nome;
         public string cidade;
-
+        
     }
 }
