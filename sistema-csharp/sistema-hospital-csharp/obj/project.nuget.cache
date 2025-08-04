@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Wus0UNjD9vc=",
+  "dgSpecHash": "WxGauH+sYoA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis\\Documents\\Programação\\Visual Studio Projetos\\2025\\sistema-hospital-csharp\\sistema-hospital-csharp\\sistema-hospital-csharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\f19033\\Documents\\Documentos Luisinho\\Projetos\\sistema-hospital\\sistema-hospital\\sistema-csharp\\sistema-hospital-csharp\\sistema-hospital-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f19033\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\f19033\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\f19033\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\f19033\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

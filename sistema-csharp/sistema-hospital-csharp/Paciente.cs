@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace sistema_hospital_csharp
 {
-    public class Pessoa
+    public class Paciente
     {
-        
+        public int Idade;
+        public char TpSexo = 'F', 'M';
+
+        public string Nome;
+        public string cidade;
+
     }
 }
